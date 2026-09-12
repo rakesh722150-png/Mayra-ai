@@ -1,0 +1,11 @@
+{
+  "name": "Mayra AI Assistant",
+  "description": "Your best friend AI assistant, always ready to chat and help with voice support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
